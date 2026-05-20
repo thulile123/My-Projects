@@ -8,7 +8,7 @@ ICT graduate specializing in Application Development, with a strong interest in 
 - Custom input options
 - Dynamic visual content generation
 
-### 1. visual Muse web application
+### 1. AI Image generator
 A web-based application designed to generate and display visual content through an interactive interface.  
 🔗 [View Project](https://visual-muse--thulilephoswa.replit.app)
 
