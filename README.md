@@ -16,6 +16,9 @@ A web-based application designed to generate and display visual content through 
 An interactive chatbot application developed using Botpress, designed to simulate conversations and assist users through automated responses.  
 🔗 [View Project](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/04/30/11/20260430112745-8X2GOGYA.json)
 
+### 3. Portfolio Website
+A professional portfolio website developed to showcase AI projects, technical skills, live demos, and bootcamp achievements with modern responsive design.
+
 ---
 
 
