@@ -18,8 +18,11 @@ An interactive chatbot application developed using Botpress, designed to simulat
 
 ### 3. Portfolio Website
 A professional portfolio website developed to showcase AI projects, technical skills, live demos, and bootcamp achievements with modern responsive design.
-
+🔗 [View Project](https://ai-portfolio-hub--thulilephoswa22.replit.app)
 ---
+### 4. Sector-Specific AI Prototype
+A finance-focused AI prototype designed to help users manage monthly spending and avoid overspending, missed debit orders, and penalty fees.
+🔗 [View Project](https://v0-overspending-alert-system.vercel.app)
 
 
 ## Skills
