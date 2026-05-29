@@ -16,7 +16,7 @@ A web-based application designed to generate and display visual content through 
 An interactive chatbot application developed using Botpress, designed to simulate conversations and assist users through automated responses.  
 🔗 [View Project](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/04/30/11/20260430112745-8X2GOGYA.json)
 
-### 3. ### 3. Portfolio Website
+### 3. Portfolio Website
 A professional portfolio website developed to showcase AI projects, technical skills, live demos, and bootcamp achievements with a modern responsive design.
 🔗 [View Project](https://ai-portfolio-hub--thulilephoswa22.replit.app)
 
@@ -32,20 +32,6 @@ A professional portfolio website developed to showcase AI projects, technical sk
 
 🔗 [View Project](https://ai-portfolio-hub--thulilephoswa22.replit.app)
 
-
-## Technical Skills
-* Artificial Intelligence (AI)
-* Prompt Engineering
-* Python
-* HTML & CSS
-* JavaScript
-* Git & GitHub
-* Responsive Web Design
-* AI Chatbot Development
-* Problem Solving
-* UI/UX Basics
-* Microsoft Office
-* Team Collaboration
 
 
 
