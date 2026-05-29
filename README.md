@@ -1,13 +1,5 @@
 # my Projects
 
-## description
-ICT graduate specializing in Application Development, with a strong interest in building practical and user-friendly digital solutions.
-
- Features
-- User-friendly interface
-- Custom input options
-- Dynamic visual content generation
-
 ### 1. AI Image generator
 A web-based application designed to generate and display visual content through an interactive interface.  
 🔗 [View Project](https://visual-muse--thulilephoswa.replit.app)
